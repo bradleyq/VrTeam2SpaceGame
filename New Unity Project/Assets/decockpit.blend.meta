@@ -12,6 +12,7 @@ ModelImporter:
     100008: exterirorceramic
     100010: exterirormetallic
     100012: sign
+    100014: chair
     400000: //RootNode
     400002: exteriror
     400004: interior
@@ -19,24 +20,28 @@ ModelImporter:
     400008: exterirorceramic
     400010: exterirormetallic
     400012: sign
+    400014: chair
     2300000: exteriror
     2300002: interior
     2300004: windows
     2300006: exterirorceramic
     2300008: exterirormetallic
     2300010: sign
+    2300012: chair
     3300000: exteriror
     3300002: interior
     3300004: windows
     3300006: exterirorceramic
     3300008: exterirormetallic
     3300010: sign
+    3300012: chair
     4300000: windows
     4300002: exteriror
     4300004: interior
     4300006: exterirormetallic
     4300008: exterirorceramic
     4300010: sign
+    4300012: chair
     7400000: Default Take
     9500000: //RootNode
   materials:
