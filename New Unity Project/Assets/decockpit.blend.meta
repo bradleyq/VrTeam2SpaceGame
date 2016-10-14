@@ -19,6 +19,7 @@ ModelImporter:
     100022: Intobjmir_001
     100024: intobj
     100026: exterior
+    100028: steeringthing
     400000: //RootNode
     400002: exteriror
     400004: interior
@@ -33,6 +34,7 @@ ModelImporter:
     400022: Intobjmir_001
     400024: intobj
     400026: exterior
+    400028: steeringthing
     2300000: exteriror
     2300002: interior
     2300004: windows
@@ -46,6 +48,7 @@ ModelImporter:
     2300020: Intobjmir_001
     2300022: intobj
     2300024: exterior
+    2300026: steeringthing
     3300000: exteriror
     3300002: interior
     3300004: windows
@@ -59,6 +62,7 @@ ModelImporter:
     3300020: Intobjmir_001
     3300022: intobj
     3300024: exterior
+    3300026: steeringthing
     4300000: windows
     4300002: exteriror
     4300004: interior
@@ -72,6 +76,7 @@ ModelImporter:
     4300020: Intobjmir_001
     4300022: intobj
     4300024: exterior
+    4300026: steeringthing
     7400000: Default Take
     9500000: //RootNode
   materials:
