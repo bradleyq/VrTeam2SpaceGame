@@ -15,6 +15,10 @@ ModelImporter:
     100014: chair
     100016: Interior_objects
     100018: Intobjmir
+    100020: exteriror_001
+    100022: Intobjmir_001
+    100024: intobj
+    100026: exterior
     400000: //RootNode
     400002: exteriror
     400004: interior
@@ -25,6 +29,10 @@ ModelImporter:
     400014: chair
     400016: Interior_objects
     400018: Intobjmir
+    400020: exteriror_001
+    400022: Intobjmir_001
+    400024: intobj
+    400026: exterior
     2300000: exteriror
     2300002: interior
     2300004: windows
@@ -34,6 +42,10 @@ ModelImporter:
     2300012: chair
     2300014: Interior_objects
     2300016: Intobjmir
+    2300018: exteriror_001
+    2300020: Intobjmir_001
+    2300022: intobj
+    2300024: exterior
     3300000: exteriror
     3300002: interior
     3300004: windows
@@ -43,6 +55,10 @@ ModelImporter:
     3300012: chair
     3300014: Interior_objects
     3300016: Intobjmir
+    3300018: exteriror_001
+    3300020: Intobjmir_001
+    3300022: intobj
+    3300024: exterior
     4300000: windows
     4300002: exteriror
     4300004: interior
@@ -52,6 +68,10 @@ ModelImporter:
     4300012: chair
     4300014: Interior_objects
     4300016: Intobjmir
+    4300018: exteriror_001
+    4300020: Intobjmir_001
+    4300022: intobj
+    4300024: exterior
     7400000: Default Take
     9500000: //RootNode
   materials:
